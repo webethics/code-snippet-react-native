@@ -1,0 +1,10 @@
+.next
+/build/**
+/node_modules/**
+/android/**
+/ios/**
+!.prettierrc.js
+*.jpg
+*.svg
+*.png
+/__tests__/**
